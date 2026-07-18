@@ -52,7 +52,13 @@ The apps are ideal for:
 
 ## 📸 Screenshots
 
-<img width="158" height="165" alt="image" src="https://github.com/user-attachments/assets/c1c4337b-1892-4376-a3e6-9e345f0745dc" />
+<img width="413" height="169" alt="image" src="https://github.com/user-attachments/assets/047c45a6-40d8-4bec-b4a1-3209e7b0c471" />
+
+## 📥 Download
+
+Download **Inspo Hair** from the App Store:
+
+🍎 **App Store:** https://apps.apple.com/us/app/inspo-hair/id6740243681
 
 ---
 
